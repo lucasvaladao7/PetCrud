@@ -6,11 +6,11 @@ Sistema desenvolvido em **ASP.NET Core MVC** para realizar o cadastro e gerencia
 
 ### Tela Principal
 
-![Lista de Animais](PetCrud/Imagens/lista.png)
+![Lista de Animais](PetCrud/imagens/lista.png)
 
 ### Tela de Cadastro
 
-![Cadastro de Animal](PetCrud/Imagens/cadastro.png)
+![Cadastro de Animal](PetCrud/imagens/cadastro.png)
 
 > **Obs.:** Coloque as capturas de tela na pasta `imagens` do projeto e renomeie para `lista.png` e `cadastro.png`.
 
