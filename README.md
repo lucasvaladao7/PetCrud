@@ -158,12 +158,12 @@ Este projeto foi desenvolvido com fins acadêmicos para praticar os conceitos de
 
 # 👨‍💻 Autor
 
-**David Oliveira da Silva**
+**Lucas Oliveira Valadão**
 
 Estudante do curso Técnico em Desenvolvimento de Sistemas - SENAI/SE
 
 GitHub:
-https://github.com/davidosilva9-hub/PetCrud.git
+https://github.com/lucasvaladao7
 
 ---
 
