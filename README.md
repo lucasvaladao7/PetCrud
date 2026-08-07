@@ -83,7 +83,7 @@ public class Animal
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/davidosilva9-hub/HospitalCrud.git
+git clone https://github.com/davidosilva9-hub/PetCrud.git
 ```
 
 ### 2. Abra o projeto
@@ -163,7 +163,7 @@ Este projeto foi desenvolvido com fins acadêmicos para praticar os conceitos de
 Estudante do curso Técnico em Desenvolvimento de Sistemas - SENAI/SE
 
 GitHub:
-https://github.com/davidosilva9-hub/HospitalCrud.git
+https://github.com/davidosilva9-hub/PetCrud.git
 
 ---
 
