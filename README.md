@@ -83,7 +83,7 @@ public class Animal
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/davidosilva9-hub/PetCrud.git
+git clone https://github.com/lucasvaladao7/PetCrud.git
 ```
 
 ### 2. Abra o projeto
