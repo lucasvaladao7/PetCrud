@@ -163,7 +163,7 @@ Este projeto foi desenvolvido com fins acadêmicos para praticar os conceitos de
 Estudante do curso Técnico em Desenvolvimento de Sistemas - SENAI/SE
 
 GitHub:
-> https://github.com/seu-usuario
+https://github.com/davidosilva9-hub/HospitalCrud.git
 
 ---
 
