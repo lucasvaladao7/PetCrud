@@ -12,7 +12,7 @@ Sistema desenvolvido em **ASP.NET Core MVC** para realizar o cadastro e gerencia
 
 ![Cadastro de Animal](PetCrud/imagens/cadastro.png)
 
-> **Obs.:** Coloque as capturas de tela na pasta `images` do projeto e renomeie para `lista.png` e `cadastro.png`.
+> **Obs.:** Coloque as capturas de tela na pasta `imagens` do projeto e renomeie para `lista.png` e `cadastro.png`.
 
 ---
 
